@@ -1,0 +1,17 @@
+name: responsi2_mobile_<NIM>
+description: Responsi 2 Mobile Paket 1
+publish_to: "none"
+environment:
+sdk: ">=2.18.0 <3.0.0"
+
+
+dependencies:
+flutter:
+sdk: flutter
+http: ^0.13.6
+shared_preferences: ^2.1.1
+intl: ^0.18.0
+
+
+flutter:
+uses-material-design: true
